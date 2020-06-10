@@ -12,6 +12,10 @@
   box-sizing: border-box;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-family: 'Source Sans Pro'; 
   font-style: normal;
@@ -19,6 +23,7 @@ body {
   font-size: 18px;
   color: #fff;
   background: var(--dark-color);
+  overflow: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -177,6 +182,7 @@ a {
 #footer div, ul{
   margin-top: 29px;
   margin-bottom: 12px;
+  text-align: center;
 }
 
 #footer2{
@@ -201,7 +207,9 @@ a {
   list-style: none;
   /* margin-top: 29px; */
 }
-
+#footer li {
+  text-align: center;
+}
 #footer2 ul a{
   justify-content: space-between;
   font-family: 'Playfair Display', serif;
@@ -227,7 +235,7 @@ a {
 
 /* Facilities nav Section */
 #facility-navbar {
-  margin: 2rem;
+  margin: 1rem;
 }
 
 .nav-item {
@@ -242,9 +250,9 @@ a {
 /* Facilities intro section */
 
 .intro-div {
-  margin: 7% 20%;
+  /*margin: 7% 20%;*/
   text-align: center;
-  width: 60%;
+  /*width: 60%;*/
 }
 
 .intro-heading {
@@ -342,5 +350,8 @@ a {
     font-size: 15px;
     margin-top: 30px;
     width:100%''
+  }
+  #footer ul a {
+    padding: 0.3rem;
   }
 }
