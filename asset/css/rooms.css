@@ -115,7 +115,7 @@ nav {
 #footer{
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
   margin-top: 124px;
   border-bottom: 1px solid #D8D8D8;
@@ -150,7 +150,7 @@ nav {
 #footer2{
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
 }
 

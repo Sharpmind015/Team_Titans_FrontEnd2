@@ -15,12 +15,12 @@ p.lead {
   color:#fff;   
 }
 
-.btn-primary:hover {
-  background-color:#1E1E1C;
+.btn-primary .btn-primary:hover {
+  background-color:#514525;
+  border-color:#514525
 }
-
 p a:hover {
-  color:#514525;
+  color:#dfd8c2;
 }
 
 #footer, #footer2 {
