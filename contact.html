@@ -25,10 +25,21 @@
 
   <!-- Font Awesome -->
   <script src="https://kit.fontawesome.com/fc9346f24c.js" crossorigin="anonymous"></script>
+    <!-- PreLoader Script -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+    <script>
+      $(window).load(function () {
+        // Animate loader off screen
+        $(".se-pre-con").fadeOut("slow");;
+      });
+    </script>
 
   <title>Hotel</title>
 </head>
 <body>
+    <!-- Preloader -->
+    <div class="se-pre-con"></div>
   <div class="container">
     <!-- Nav -->
     <nav class="navbar navbar-expand-lg navbar-dark mb-5">
@@ -52,7 +63,7 @@
             <a class="nav-link smooth-scroll" href="facilities.html">Facilities</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link smooth-scroll" href="contact.html">Contact Us <span class="sr-only">(current)</span></a>
+            <a class="nav-link active smooth-scroll" href="contact.html">Contact Us <span class="sr-only">(current)</span></a>
           </li>
         </ul>
       </div>

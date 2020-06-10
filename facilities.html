@@ -27,11 +27,22 @@
   <link rel="stylesheet" href="asset/css/style.css">
   <!-- Font Awesome -->
   <script src="https://kit.fontawesome.com/fc9346f24c.js" crossorigin="anonymous"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <!-- PreLoader Script -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+    <script>
+      $(window).load(function () {
+        // Animate loader off screen
+        $(".se-pre-con").fadeOut("slow");;
+      });
+    </script>
 
   <title>Hotel | Facilities</title>
 </head>
 
 <body class="facility-body">
+    <!-- Preloader -->
+    <div class="se-pre-con"></div>
   <div id="facility-navbar">
     <div class="container-fluid px-4">
       <nav class="navbar navbar-expand-lg navbar-dark">
