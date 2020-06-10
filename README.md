@@ -60,3 +60,58 @@ https://github.com/Josephatada/Design-Assets-Team--Titan-
 
 Contributors
 ===================
+
+- ##### Abba Shadrach 
+Email : shaydeecoder@gmail.com
+github : github.com/shaydeecoder
+- ##### Ugochukwu  Genevieve 
+Email : gennydera.97@gmail.com
+github : https://github.com/gennydera
+- ##### Daniel Bemsen
+Email : danireptor7@gmail.com
+github : https://github.com/augustbemsen
+- ##### Sushmita Pal 
+Email : palsush096@gmail.com
+github : https://github.com/sush096
+- ##### Opejin Abdulahi 
+Email : opejinabdulahi.ay@gmail.com
+github : github.com/OpejinAbdulahi
+- ##### Lotanna Kyrian 
+Email : kyrain.lotanna@gmail.com
+github : https://github.com/ELTANA
+- ##### Akindeji Oluwaseun 
+Email : akindejioluwaseun@gmail.com
+github : https://github.com/Sharpmind015
+- ##### Ehimenmen Ataman 
+Email : sarahehi.sa@gmail.com
+github : https://github.com/Sarataman
+- ##### Mercy Okobi 
+Email : mercyokobi@gmail.com
+github : https://github.com/Osetoham
+- ##### Aitomun Faith 
+Email : faithaitomun@gmail.com
+github : https://github.com/engremerald
+- ##### Alice Ndeh 
+Email : alicendeh16@gmail.com
+github : https://github.com/alicendeh
+- ##### Peter Olu 
+Email : peter.o.olu@gmail.com
+github : https://github.com/pemeraldy
+- ##### Joseph Atada 
+Email : jayatada@gmail.com
+github : https://github.com/Josephatada
+- ##### Ofili Chukwuemeka 
+Email : chumex412@gmail.com
+github : https://github.com/chumex412
+- ##### Sojobi Samuel 
+Email : psalmsoj@gmail.com
+github : https://github.com/Ayosam-dev
+- ##### Tosin Amos 
+Email : seanamos98@gmail.com
+github : https://github.com/seanamos98
+- ##### Tomisin Rachel 
+Email : folorunshotosin334@gmail.com
+github : https://github.com/Racheal-spec
+- ##### Akinola Oladayo 
+Email : akinola.oladayo10@gmail.com
+github : https://github.com/AkinolaOladayo
