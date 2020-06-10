@@ -206,6 +206,12 @@ a {
   margin-bottom: 12px;
   text-align: center;
 }
+#footer a{
+  text-decoration: none;
+}
+#footer a:hover{
+    color:#dfd8c2;
+}
 
 #footer2{
   display: flex;
