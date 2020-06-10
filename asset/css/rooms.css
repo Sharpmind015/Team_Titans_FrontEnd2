@@ -32,7 +32,7 @@ nav {
   text-align: center;
   justify-content: center;
   align-items: center;
-  height: 50vh;
+  height: 60vh;
   margin: auto;
   max-width: 46.3rem;
 }
@@ -181,6 +181,28 @@ nav {
 
 #footer2 ul li a:last-of-type{
   padding-right: 0;
+}
+
+#footer3{
+  background: #1E1E1C;
+  text-align: center;
+  color: #fff;
+  margin-top: 100px;
+  padding: 10px 0px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+#footer3 p{
+ text-align: center;
+ margin-top: 10px;
+ font-family: 'Source Sans Pro', serif;
+}
+
+#footer3 p a{
+  cursor: pointer;
+  
+  
 }
 
 
