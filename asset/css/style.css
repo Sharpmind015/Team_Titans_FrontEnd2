@@ -327,6 +327,7 @@ a {
   #footer{
     flex-direction: column;
     align-items: center;
+    width:100%;
   }
   
   #footer div{
@@ -340,5 +341,6 @@ a {
   #footer2 p{
     font-size: 15px;
     margin-top: 30px;
+    width:100%''
   }
 }
