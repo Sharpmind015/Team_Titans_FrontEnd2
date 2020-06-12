@@ -83,6 +83,9 @@ nav {
 
 #room-description ul{
   margin-top: 15px;   
+  margin-left: 16px;
+  margin-right: 20px;
+  padding-right:350px;
 }
 
 #room-description ul li{
