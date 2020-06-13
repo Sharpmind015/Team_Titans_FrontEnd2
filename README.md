@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 
 <head>
@@ -78,7 +78,7 @@ github : <a href="http://github.com/OpejinAbdulahi">github.com/OpejinAbdulahi</a
 github : <a href="https://github.com/ELTANA">https://github.com/ELTANA</a></p>
 <ul>
 <li>
-<h5 id="akindeji-oluwaseun">Akindeji Oluwaseun</h5>
+<h5 id="akindeji-oluwaseun">Akindeji Ayedun</h5>
 </li>
 </ul>
 <p>Email : <a href="mailto:akindejioluwaseun@gmail.com">akindejioluwaseun@gmail.com</a><br>
